@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="ko">
 <head>
 	<title>EndGam - Gaming Magazine Template</title>
 	<meta charset="UTF-8">
@@ -64,7 +64,7 @@ pageEncoding="UTF-8"%>
 						<li><a href="home.html">Home</a></li>
 						<li><a href="games.html">Games</a>
 							<ul class="sub-menu">
-								<li><a href="game-single.html">채연</a></li>
+								<li><a href="cy/number">채연</a></li>
 								<li><a href="game-single.html">유빈</a></li>
 								<li><a href="game-single.html">소영</a></li>
 								<li><a href="game-single.html">경묵</a></li>
